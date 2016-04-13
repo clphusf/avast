@@ -234,15 +234,15 @@ function create_config( )
     },
     sudo_users = {142266345},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
+    about_text = [[dimon
 An advanced administration bot based on TG-CLI written in Lua
 
 https://github.com/SEEDTEAM/TeleSeed
 
 Admins
 @dimon_ep  [Founder]
-@imandaneshi  [Developer]
-@ dimon_ep  [Developer]
+@dimon_eo  [Developer]
+@dimon_ep  [Developer]
 @dimon_ep  [Manager]
 @dimon_ep  [Admin]
 
